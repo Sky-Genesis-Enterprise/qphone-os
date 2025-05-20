@@ -1,8 +1,7 @@
 # QPhone OS – The Open Mobile Operating System
 
-QPhone OS is the flagship mobile operating system powering the **QPhone** – an open-source, eco-conscious, privacy-first smartphone.  
-The OS is built in **Rust** for performance and safety, with **Lua** as the scripting language for all default and third-party apps.
-This project is developed and maintained mainly by (Sky Genesis Enterprise)[https://skygenesisenterprise.com] and its teams of developers.
+QPhone OS is the flagship mobile operating system powering the **QPhone** – an open-source, eco-conscious, privacy-first smartphone.The OS is built in **Rust** for performance and safety, with **Lua** as the scripting language for all default and third-party apps.
+This project is developed and maintained mainly by [Sky Genesis Enterprise](https://skygenesisenterprise.com) and its teams of developers.
 
 ## 🚀 Project Goals
 
@@ -51,7 +50,7 @@ We welcome contributions from developers, designers, and makers.
 ### Step 1: Fork & Clone
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/qphone-os.git
+git clone https://github.com/Sky-Genesis-Enterprise/qphone-os.git
 cd qphone-os
 ```
 
@@ -124,6 +123,6 @@ See [`LICENSE`](./LICENSE) for full details.
 If you experience issues or would like to suggest a feature, feel free to:
 
 * Open an [issue](https://github.com/quantum-os/qphone-os/issues)
-* Contact the core team via [hello@quantum-os.org](mailto:hello@quantum-os.org)
+* Contact the core team via [contact@skygenesisenterprise.com](mailto:contact@skygenesisenterprise.com)
 
 > ✨ Let’s build the next open and ethical mobile platform — together.
