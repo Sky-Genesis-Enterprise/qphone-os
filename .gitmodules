@@ -1,0 +1,83 @@
+# .gitmodules – Sous-modules Git de QuantumOS
+
+# 🧠 Noyau du système
+[submodule "kernel"]
+    path = kernel
+    url = https://github.com/Sky-Genesis-Enterprise/qphone-kernel.git
+    branch = main
+
+# 🚀 Bootloader (chargement au démarrage)
+[submodule "bootloader"]
+    path = bootloader
+    url = https://github.com/Sky-Genesis-Enterprise/qphone-bootloader.git
+    branch = main
+
+# 🧩 Pilotes matériels
+[submodule "drivers"]
+    path = drivers
+    url = https://github.com/Sky-Genesis-Enterprise/qphone-drivers.git
+    branch = main
+
+# 🧱 Libc compatible Redox
+[submodule "relibc"]
+    path = relibc
+    url = https://github.com/Sky-Genesis-Enterprise/qphone-relibc.git
+    branch = main
+
+# 📦 Système de paquets
+[submodule "pkgutils"]
+    path = pkgutils
+    url = https://github.com/Sky-Genesis-Enterprise/qphone-pkgutils.git
+    branch = main
+
+[submodule "pkgar"]
+    path = pkgar
+    url = https://github.com/Sky-Genesis-Enterprise/qphone-pkgar.git
+    branch = main
+
+# 💾 Système de fichiers
+[submodule "redoxfs"]
+    path = redoxfs
+    url = https://github.com/Sky-Genesis-Enterprise/qphone-redoxfs.git
+    branch = main
+
+# 🖥️ Shell utilisateur
+[submodule "ion"]
+    path = ion
+    url = https://github.com/Sky-Genesis-Enterprise/qphone-ion.git
+    branch = main
+
+# 🧪 Installeur du système
+[submodule "installer"]
+    path = installer
+    url = https://github.com/Sky-Genesis-Enterprise/qphone-installer.git
+    branch = main
+
+# 🍱 Cookbook (build system)
+[submodule "cookbook"]
+    path = cookbook
+    url = https://github.com/Sky-Genesis-Enterprise/qphone-cookbook.git
+    branch = main
+
+# 🎮 Interface graphique et utilitaires
+[submodule "orbital"]
+    path = orbital
+    url = https://github.com/Sky-Genesis-Enterprise/qphone-orbital.git
+    branch = main
+
+[submodule "orbutils"]
+    path = orbutils
+    url = https://github.com/Sky-Genesis-Enterprise/qphone-orbutils.git
+    branch = main
+
+# 🧰 Outils utilisateur (ex: ls, cat, echo)
+[submodule "userutils"]
+    path = userutils
+    url = https://github.com/Sky-Genesis-Enterprise/qphone-userutils.git
+    branch = main
+
+# 🚀 Lanceur d’applications
+[submodule "launcher"]
+    path = launcher
+    url = https://github.com/Sky-Genesis-Enterprise/qphone-launcher.git
+    branch = main
